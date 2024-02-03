@@ -1,0 +1,338 @@
+repo_name: tofaramususa/ai-qa-system
+report_id: cb61ae21540cdb72fb488fa9ca4d11be
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-03T12:19:21+00:00'
+requested_by: tofaramususa
+provider: github
+branch: main
+detected_tools_count: 28
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: Fortran
+  description: High-performance parallel programming language
+  website_url: https://fortran-lang.org/en/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/11029/default_075c8240ce6c7ac3a8db41abef5c68eb84207f99.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/chromadb/migrations/embeddings_queue/00001-embeddings.sqlite.sql
+  detection_source: virtual/lib/python3.11/site-packages/chromadb/migrations/embeddings_queue/00001-embeddings.sqlite.sql
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: FastAPI
+  description: A high performance, easy to learn, fast to code, ready for production
+    web framework
+  website_url: https://fastapi.tiangolo.com/
+  version: 0.96.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: Cassandra
+  description: A partitioned row store. Rows are organized into tables with a required
+    primary key.
+  website_url: http://cassandra.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1032/cassandra_small.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/memory/chat_message_histories/cassandra.py
+  detection_source: virtual/lib/python3.11/site-packages/langchain/memory/chat_message_histories/cassandra.py
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: DB
+  description: 'Version control for databases: save, restore, and archive snapshots
+    of your database from the command line'
+  website_url: https://github.com/infostreams/db
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/11593/no-img.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/docker-compose.yaml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/docker-compose.yaml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/document_loaders/__init__.py
+  detection_source: virtual/lib/python3.11/site-packages/langchain/document_loaders/__init__.py
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: PostgreSQL
+  description: A powerful, open source object-relational database system
+  website_url: http://www.postgresql.org/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1028/ASOhU5xJ.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/docker-compose.yaml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/docker-compose.yaml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langsmith/cli/docker-compose.yaml
+  detection_source: virtual/lib/python3.11/site-packages/langsmith/cli/docker-compose.yaml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: hub
+  description: Wraps Git with extra features that make working with GitHub easier
+    (by GitHub)
+  website_url: http://hub.github.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langsmith/cli/docker-compose.yaml
+  detection_source: virtual/lib/python3.11/site-packages/langsmith/cli/docker-compose.yaml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: ANTLR
+  description: Posts by Terence Parr, The ANTLR guy, about ANTLR, StringTemplate,
+    parsing, and general computer language cruft.
+  website_url: http://www.antlr.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: Base
+  description: All-in-one sales and customer management platform
+  website_url: https://getbase.com/
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/3633/ZBMmmvP1_400x400.jpg
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langsmith/cli/docker-compose.yaml
+  detection_source: virtual/lib/python3.11/site-packages/langsmith/cli/docker-compose.yaml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 0.27.8
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: PowerShell
+  description: A task automation and configuration management framework
+  website_url: https://docs.microsoft.com/en-us/powershell/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/3681/powershell-logo.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: XSLT
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/XSLT
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4253/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system
+  detection_source: Repo Metadata
+- name: langchain
+  description: Building applications with LLMs through composability
+  package_url: https://pypi.org/project/langchain
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: openai
+  description: The official Python library for the openai API
+  package_url: https://pypi.org/project/openai
+  version: 0.27.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
+- name: uvicorn
+  description: The lightning-fast ASGI server
+  package_url: https://pypi.org/project/uvicorn
+  version: 0.22.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20431/default_f824837db22536768ec317b67275fa384fad7d47.png
+  detection_source_url: https://github.com/tofaramususa/ai-qa-system/blob/main/virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/poetry/pyproject.toml
+  detection_source: virtual/lib/python3.11/site-packages/langchain/cli/create_repo/templates/pip/pyproject.toml
+  last_updated_by: jtofaramususa@gmail.com
+  last_updated_on: 2023-12-08 10:42:08.000000000 Z
